@@ -1,4 +1,4 @@
-var restart = {
+var restart = {  //重新开始按钮
     button: document.createElement('button'),
     showRestart: function (parentObj) {
         this.button.style.width = '85px';
